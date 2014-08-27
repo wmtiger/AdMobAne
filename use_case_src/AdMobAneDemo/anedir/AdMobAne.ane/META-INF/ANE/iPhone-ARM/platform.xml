@@ -1,0 +1,10 @@
+<platform xmlns="http://ns.adobe.com/air/extension/3.1">
+    <sdkVersion>5.0</sdkVersion>
+    <linkerOptions> 
+        <option>-framework MessageUI</option>
+        <option>-framework AdSupport</option>
+        <option>-framework CoreTelephony</option>
+        <option>-framework StoreKit</option>
+        <option>-w</option>
+    </linkerOptions> 
+</platform>
