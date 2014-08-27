@@ -1,19 +1,11 @@
 ##News:
+27/08/2014<br>
+Added Demo Application SourceCode
+Added Flash Pro Use case source
+
 22/08/2014<br>
 Version update 1.7.8.
 Please see the ReleaseNotes for fll release details<br>
-
-16/08/2014<br>
-New Version has been release! Ver. 1.7.7<br>
-Added features:<br>
-- Updated iOS SDK to 6.11.1<br>
-- Move Banner Function<br>
-- Added support for the new Large Banner type! (Not available in iOS4.3 build)<br>
-- Get banner dimensions<br>
-- Get Device Screen dimensions<br>
-- Set rendering mode (Hardware/Software/None) *Android Only<br>
-- Fixed Minor bugs<br>
-See ReleaseNotes for more details<br>
 
 Admob Native Extension for Adobe Air
 =========

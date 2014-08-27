@@ -3,9 +3,8 @@ Admob ANE Demo Application
 
 Here are available the already build package for iOS.
 
-For Android please download the application directly from Google Play!
+For Android please download the application directly from Google Play!<br>
 Link: https://play.google.com/store/apps/details?id=air.com.codealchemy.admobane.sample
-Please rate the App!
 
 
 The iOS packages are available in two version:
