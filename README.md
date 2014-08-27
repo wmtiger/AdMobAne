@@ -1,10 +1,10 @@
 ##News:
 27/08/2014<br>
-Added Demo Application SourceCode
+Added Demo Application SourceCode<br>
 Added Flash Pro Use case source
 
 22/08/2014<br>
-Version update 1.7.8.
+Version update 1.7.8.<br>
 Please see the ReleaseNotes for fll release details<br>
 
 Admob Native Extension for Adobe Air
