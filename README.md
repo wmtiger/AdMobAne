@@ -8,7 +8,7 @@ I will keep the "No_GooglePlay_Lib" packages for a bit longer, then i will disco
 please use AIR 15 SDK when using multiple ANE which includes Google play services or duplicated jar libraries.<br>
 ref: "Android - Auto resolve conflicting common library JARs and common resources for multiple ANEs.<br>
 ADT will throw warning in case of auto-resolve. (3780590)"<br>
-- http://helpx.adobe.com/flash-player/release-note/fp_15_air_15_release_notes.html<br>
+http://helpx.adobe.com/flash-player/release-note/fp_15_air_15_release_notes.html<br>
 <br>
 20/09/2014<br>
 Version update 1.7.9.<br>
