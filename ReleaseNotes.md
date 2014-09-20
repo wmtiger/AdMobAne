@@ -1,5 +1,13 @@
 Admob ANE Release Notes
 =========
+##Version 1.7.9
+Core Updates:<br>
+- Updated iOS SDK to 6.12.0<br>
+
+Bug fixes:<br>
+- Fixed "iOS 8 compatibility" Bug
+
+
 ##Version 1.7.8
 Enhancement:<br>
 - Disable the use of "SMART_BANNER_LAND" and "SMART_BANNER_PORT" in Android<br>
@@ -10,7 +18,7 @@ It is not supported by AdMob and it is only available in limited mediation netwo
 - Removed duplicated Native Logs.
 
 Bug fixes:<br>
-- Fixed bug "Inter Failed to Load" Bug
+- Fixed "Inter Failed to Load" Bug
 
 
 ##Version 1.7.7

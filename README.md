@@ -1,10 +1,20 @@
 ##News:
-27/08/2014<br>
-Added Demo Application SourceCode<br>
-Added Flash Pro Use case source
-
-22/08/2014<br>
-Version update 1.7.8.<br>
+20/09/2014<br>
+Air SDK ver.15 ha been release.<br>
+The latest SDK fix also the issue of duplicated Jar library in the application.<br>
+So it will not be anymore necessary to use the "No_GooglePlay_Lib" package when multiple ANE with GPS are use together<br>
+in the same project.<br>
+I will keep the "No_GooglePlay_Lib" packages for a bit longer, then i will discontinue it from the repository,<br>
+please use AIR 15 SDK when using multiple ANE which includes Google play services or duplicated jar libraries.<br>
+ref: "Android - Auto resolve conflicting common library JARs and common resources for multiple ANEs.<br>
+ADT will throw warning in case of auto-resolve. (3780590)"<br>
+- http://helpx.adobe.com/flash-player/release-note/fp_15_air_15_release_notes.html<br>
+<br>
+20/09/2014<br>
+Version update 1.7.9.<br>
+Fixed compatibility issue with iOS 8.0<br>
+Updated iOS SDK to 6.12.0<br>
+see: https://developers.google.com/mobile-ads-sdk/docs/admob/ios/rel-notes<br>
 Please see the ReleaseNotes for fll release details<br>
 
 Admob Native Extension for Adobe Air
@@ -19,7 +29,7 @@ Different Packages are available according to the application targets:
 
 ##Admob SDK Details
 - Android: Google Play services ver. 5.0
-- iOS: Admob SDK 6.11.1 (Admob SDK 6.8.0 in iOS 4.3 compatible version)
+- iOS: Admob SDK 6.12.0 (Admob SDK 6.8.0 in iOS 4.3 compatible version)
 
 ##Device Compatibility:
 Android: From version 2.3<br>
