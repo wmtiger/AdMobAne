@@ -3,6 +3,11 @@
 Added Banner Rotation method.<br>
 Similar to moveBanner it is now possible to use rotateBanner for Manual Banner rotation.<br>
 This, together with moveBanner, will also allow to create more complex banner animations.<br>
+Please note the following point for the new method:<br>
+1) In Android the method is compatible only with ver3.0 and above (from API 11).<br>
+If the method is executed in android before 3.0 the error will be handle, however the banner will not rotate.<br>
+2) The angle passed is in Degrees.<br>
+3) The angle is a float, so also decimal angles can be handled.<br>
 20/09/2014<br>
 Air SDK ver.15 ha been release.<br>
 The latest SDK fix also the issue of duplicated Jar library in the application.<br>
@@ -249,7 +254,7 @@ The function will allow to rotate a specific banner, recognized by its Id.<br>
 This allow to also create banner animation when the banner is created<br>
 The parameter are as follow:
 - Banner Id (Specific banner Id for the banner to be move)
-- Banner Angle (Banner specific Rotation Angle, in degrees)
+- Banner Angle in Degrees (Banner specific Rotation Angle, float value)
 ```javascript
 adMobManager.rotateBanner("BottomBanner",90);
 ```
