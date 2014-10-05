@@ -8,6 +8,7 @@ Please note the following point for the new method:<br>
 If the method is executed in android before 3.0 the error will be handle, however the banner will not rotate.<br>
 2) The angle passed is in Degrees.<br>
 3) The angle is a float, so also decimal angles can be handled.<br>
+<br>
 20/09/2014<br>
 Air SDK ver.15 ha been release.<br>
 The latest SDK fix also the issue of duplicated Jar library in the application.<br>
