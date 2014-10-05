@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<application xmlns="http://ns.adobe.com/air/application/14.0">
+<application xmlns="http://ns.adobe.com/air/application/15.0">
   <!-- Bundle Identifier. Required. -->
   <id>com.codealchemy.admobane.sample</id>
   <!-- Used as the filename for the application. Required. -->
@@ -7,7 +7,7 @@
   <!-- The name that is displayed below the app icon. -->
   <name>AdMob ANE</name>
   <!-- Application Version Number -->
-  <versionNumber>1.0.1</versionNumber>
+  <versionNumber>1.0.2</versionNumber>
   <!-- Supported Application profiles -->
   <!--  <supportedProfiles>mobileDevice</supportedProfiles> -->
   <!-- Settings for the application's initial window. Required. -->

@@ -42,6 +42,8 @@ package
 		static public const MSG_FUNC_DOWN:String			= "FUNC0006";
 		static public const MSG_FUNC_LEFT:String			= "FUNC0007";
 		static public const MSG_FUNC_RIGHT:String			= "FUNC0008";
+		static public const MSG_FUNC_INC:String				= "FUNC0009";
+		static public const MSG_FUNC_DEC:String				= "FUNC0010";
 		static public const MSG_LABEL_BGM:String			= "ST000010";
 		static public const MSG_LABEL_FX:String				= "ST000020";
 		static public const MSG_LABEL_LANG:String			= "ST000050";

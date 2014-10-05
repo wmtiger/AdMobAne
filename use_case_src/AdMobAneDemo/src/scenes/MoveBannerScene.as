@@ -88,7 +88,7 @@ package scenes
 		// =================================================================================================
 		
 		/** 
-		 * Single Banner Demo Scene constructor
+		 * move Banner Demo Scene constructor
 		 * 
 		 **/
 		public function MoveBannerScene()

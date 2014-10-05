@@ -3,9 +3,10 @@
   "MMENU002": "Single Banner Demo",
   "MMENU003": "Multi Banners Demo",
   "MMENU004": "Move Banner Demo",
-  "MMENU005": "Interstitial Demo",
-  "MMENU006": "Configuration",
-  "MMENU007": "Credits",
+  "MMENU005": "Rotate Banner Demo",
+  "MMENU006": "Interstitial Demo",
+  "MMENU007": "Configuration",
+  "MMENU008": "Credits",
   
   "MMENUBCK": "Back",
   
@@ -27,6 +28,8 @@
   "FUNC0006": "DOWN",
   "FUNC0007": "LEFT",
   "FUNC0008": "RIGHT",
+  "FUNC0009": "+",
+  "FUNC0010": "-",
   
   "ST000001": "Enable",
   "ST000002": "Volume",

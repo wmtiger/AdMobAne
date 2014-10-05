@@ -18,6 +18,7 @@ package
 	import scenes.InterstitialScene;
 	import scenes.MoveBannerScene;
 	import scenes.MultiBannerScene;
+	import scenes.RotateBannerScene;
 	import scenes.SingleBannerScene;
 	
 	// Starling Includes
@@ -172,6 +173,7 @@ package
 			else if (state == GameState.STATE_SINGLE_BANNER)	showScene(SingleBannerScene);
 			else if (state == GameState.STATE_MULTI_BANNER)		showScene(MultiBannerScene);
 			else if (state == GameState.STATE_MOVE_BANNER)		showScene(MoveBannerScene);
+			else if (state == GameState.STATE_ROTATE_BANNER)	showScene(RotateBannerScene);
 			else if (state == GameState.STATE_INTERSTITIAL)		showScene(InterstitialScene);
 			else if (state == GameState.STATE_CONFIG)			showScene(ConfigScene);
 			else if (state == GameState.STATE_CREDITS)			showScene(CreditsScene);

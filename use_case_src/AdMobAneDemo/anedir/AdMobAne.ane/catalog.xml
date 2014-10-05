@@ -10,7 +10,7 @@
   </features>
   <libraries>
     <library path="library.swf">
-      <script name="com/codealchemy/ane/admobane/AdMobManager" mod="1408714565787" signatureChecksum="620714020" >
+      <script name="com/codealchemy/ane/admobane/AdMobManager" mod="1412484166670" signatureChecksum="1170172118" >
         <def id="com.codealchemy.ane.admobane:AdMobManager" /> 
         <dep id="com.codealchemy.ane.admobane:AdMobEvent" type="e" /> 
         <dep id="trace" type="e" /> 
@@ -36,7 +36,7 @@
         <dep id="AS3" type="n" /> 
         <dep id="flash.events:EventDispatcher" type="i" /> 
       </script>
-      <script name="com/codealchemy/ane/admobane/AdMobFunctions" mod="1408523044337" signatureChecksum="2230340917" >
+      <script name="com/codealchemy/ane/admobane/AdMobFunctions" mod="1412484079819" signatureChecksum="668494512" >
         <def id="com.codealchemy.ane.admobane:AdMobFunctions" /> 
         <dep id="AS3" type="n" /> 
         <dep id="Object" type="i" /> 
@@ -45,12 +45,6 @@
         <def id="com.codealchemy.ane.admobane:AdSize" /> 
         <dep id="AS3" type="n" /> 
         <dep id="Object" type="i" /> 
-      </script>
-      <script name="_023eb995e6a3206cdb30cfab088f49a5d27c7aed4a03f4c5aa7930dc22f86d4c_flash_display_Sprite" mod="1408714669048" signatureChecksum="2051767285" >
-        <def id="_023eb995e6a3206cdb30cfab088f49a5d27c7aed4a03f4c5aa7930dc22f86d4c_flash_display_Sprite" /> 
-        <dep id="flash.system:Security" type="e" /> 
-        <dep id="AS3" type="n" /> 
-        <dep id="flash.display:Sprite" type="i" /> 
       </script>
       <script name="com/codealchemy/ane/admobane/ScreenSize" mod="1408522902153" signatureChecksum="2040803746" >
         <def id="com.codealchemy.ane.admobane:ScreenSize" /> 
@@ -74,6 +68,12 @@
         <dep id="AS3" type="n" /> 
         <dep id="Object" type="i" /> 
       </script>
+      <script name="_99f148bb677e6be746186cafcdf53741b76a7258781ba23322f9454f46a0aacf_flash_display_Sprite" mod="1412484240299" signatureChecksum="1629387353" >
+        <def id="_99f148bb677e6be746186cafcdf53741b76a7258781ba23322f9454f46a0aacf_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
       <script name="com/codealchemy/ane/admobane/AdMobBanner" mod="1408714447623" signatureChecksum="748653287" >
         <def id="com.codealchemy.ane.admobane:AdMobBanner" /> 
         <dep id="AS3" type="n" /> 
@@ -85,7 +85,7 @@
         <dep id="flash.events:Event" type="i" /> 
       </script>
       <digests>
-        <digest type="SHA-256" signed="false" value="1d53fb129c278e67901158d3e8940fdeb7dcffd6eb41d50381978cb4f17712f8"   />
+        <digest type="SHA-256" signed="false" value="264738f2a86d798c055b32bf93b5481d24c63bb9843a86de8677c46d416aa21b"   />
       </digests>
     </library>
   </libraries>

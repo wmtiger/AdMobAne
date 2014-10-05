@@ -14,6 +14,7 @@ package events
 		public static const STATE_SINGLE_BANNER:String	= "stateSingleBanner";
 		public static const STATE_MULTI_BANNER:String	= "stateMultiBanner";
 		public static const STATE_MOVE_BANNER:String	= "stateMoveBanner";
+		public static const STATE_ROTATE_BANNER:String	= "stateRotateBanner";
 		public static const STATE_INTERSTITIAL:String	= "stateInterstitial";
 		public static const STATE_CONFIG:String			= "stateConfig";
 		public static const STATE_CREDITS:String		= "stateCredits";

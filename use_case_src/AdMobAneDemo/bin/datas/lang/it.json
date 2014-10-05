@@ -3,9 +3,10 @@
   "MMENU002": "Esempio Banner Singolo",
   "MMENU003": "Esempio Banner Multipli",
   "MMENU004": "Esempio Movimento Banner",
-  "MMENU005": "Esempio Interstitial",
-  "MMENU006": "Configurazione",
-  "MMENU007": "Crediti",
+  "MMENU005": "Esempio Rotazione Banner",
+  "MMENU006": "Esempio Interstitial",
+  "MMENU007": "Configurazione",
+  "MMENU008": "Crediti",
   
   "MMENUBCK": "Torna",
   
@@ -27,6 +28,8 @@
   "FUNC0006": "GIU",
   "FUNC0007": "SINISTRA",
   "FUNC0008": "DESTRA",
+  "FUNC0009": "+",
+  "FUNC0010": "-",
   
   "ST000001": "Accendi",
   "ST000002": "Volume",

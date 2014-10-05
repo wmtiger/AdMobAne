@@ -153,9 +153,10 @@ package scenes
 			else if (button.name == "2") destination	= GameState.STATE_SINGLE_BANNER;
 			else if (button.name == "3") destination	= GameState.STATE_MULTI_BANNER;
 			else if (button.name == "4") destination	= GameState.STATE_MOVE_BANNER;
-			else if (button.name == "5") destination	= GameState.STATE_INTERSTITIAL;
-			else if (button.name == "6") destination	= GameState.STATE_CONFIG;
-			else if (button.name == "7") destination	= GameState.STATE_CREDITS;
+			else if (button.name == "5") destination	= GameState.STATE_ROTATE_BANNER;
+			else if (button.name == "6") destination	= GameState.STATE_INTERSTITIAL;
+			else if (button.name == "7") destination	= GameState.STATE_CONFIG;
+			else if (button.name == "8") destination	= GameState.STATE_CREDITS;
 			else return;
 			
 			// Dispatch Scene Change Event

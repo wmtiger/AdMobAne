@@ -5,6 +5,8 @@
         <option>-framework AdSupport</option>
         <option>-framework CoreTelephony</option>
         <option>-framework StoreKit</option>
+        <option>-framework EventKit</option>
+        <option>-framework EventKitUI</option>
         <option>-w</option>
     </linkerOptions> 
 </platform>

@@ -487,6 +487,20 @@ package utils
 		}
 		
 		/**
+		 * Rotate the Banner
+		 * 
+		 * @param angle Angle in degrees in which the must must be rotated
+		 */
+		static public function rotateBanner(bannerId:String,angle:Number):void
+		{
+			// Debug Logger
+			Root.log(LOG_TAG,"rotateBanner");
+			
+			// Show the Banner
+			if(adMobManager.isSupported) adMobManager.rotateBanner(bannerId,angle);
+		}
+		
+		/**
 		 * Show the Banner
 		 * 
 		 * @param adId Banner Unique Id
