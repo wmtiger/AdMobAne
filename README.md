@@ -1,4 +1,8 @@
 ##News:
+05/10/2014<br>
+Addet Banner Rotation method.<br>
+Similar to moveBanner it is now possible to use rotateBanner for Manula Banner rotation.<br>
+This will allow also to create more complex banner animations.<br>
 20/09/2014<br>
 Air SDK ver.15 ha been release.<br>
 The latest SDK fix also the issue of duplicated Jar library in the application.<br>
@@ -237,6 +241,17 @@ The parameter are as follow:
 - Banner Y Position (Banner specific Y Position)
 ```javascript
 adMobManager.moveBanner("BottomBanner",0,100);
+```
+
+Rotate a specific Banner after creation<br>
+
+The function will allow to rotate a specific banner, recognized by its Id.<br>
+This allow to also create banner animation when the banner is created<br>
+The parameter are as follow:
+- Banner Id (Specific banner Id for the banner to be move)
+- Banner Angle (Banner specific Rotation Angle, in degrees)
+```javascript
+adMobManager.rotateBanner("BottomBanner",90);
 ```
 
 Show a specific Banner<br>
