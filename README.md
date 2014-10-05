@@ -1,8 +1,8 @@
 ##News:
 05/10/2014<br>
-Addet Banner Rotation method.<br>
-Similar to moveBanner it is now possible to use rotateBanner for Manula Banner rotation.<br>
-This will allow also to create more complex banner animations.<br>
+Added Banner Rotation method.<br>
+Similar to moveBanner it is now possible to use rotateBanner for Manual Banner rotation.<br>
+This,together eith moveBanner, will also allow to create more complex banner animations.<br>
 20/09/2014<br>
 Air SDK ver.15 ha been release.<br>
 The latest SDK fix also the issue of duplicated Jar library in the application.<br>
